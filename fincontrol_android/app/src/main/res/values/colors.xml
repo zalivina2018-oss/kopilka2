@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fc_primary">#2F6BFF</color>
+    <color name="fc_primary_dark">#214FBF</color>
+    <color name="fc_surface">#FFFFFF</color>
+    <color name="fc_background">#F5F7FB</color>
+    <color name="fc_text">#182033</color>
+</resources>
